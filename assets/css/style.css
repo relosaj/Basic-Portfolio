@@ -109,14 +109,24 @@ h3 {
 	text-align: center;
 }
 
+.social {
+	margin: 25px 0 0 50px;
+}
 
 
+.border {
+	background-color: #4aaaa5;
+	height: 8px;
+}
 
 footer {
 	clear: both;
 	background-color: #666666;
+	border-style: solid;
 	border-top-color: #4aaaa5;
 	color: lightgray;
+	font-family: arial;
+	font-size: 10px;
 	text-align: center;
-	padding: 25px;
+	padding: 30px;
 }
