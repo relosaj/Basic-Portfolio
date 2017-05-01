@@ -60,9 +60,7 @@ h1 {
 
 	margin: 0 auto;
 	width: 960px;
-	background-color: white;
-	margin: 0 auto;
-
+	background-color: red;
 }
 
 .about {
@@ -72,14 +70,13 @@ h1 {
 	height: 420px;
 	margin: 50px 20px 50px 0;
 	text-align: center;
-
 }
 
-.portfolio {
+.connect {
 	float: left;
-	background-color: #666;
+	background-color: white;
 	width: 650px;
-	height: 820px;
+	height: 580px;
 	margin: 50px 20px 50px 0;
 	text-align: center;
 }
@@ -109,28 +106,28 @@ p {
 	float: left;
 }
 
-.game1 {
+form {
 	float: left;
 }
-
-.game2 {
+.messages {
 	float: left;
+	text-align: left;
+	font-family: arial;
+	font-size: 20px;
+	padding: 40px;
+
 }
 
-.game3 {
+.submit {
 	float: left;
+	font-family: arial;
+	padding: 10px;
+	margin: 10px 0 0 0;
+	color: white;
+	background-color: #4aaaa5;
 }
 
-.game4 {
-	float: left;
-}
-
-.game5 {
-
-	float: left;
-}
-
-/* Contact elemetns
+/* Contact elements
    ========================================================================== */
 
 .contact {
