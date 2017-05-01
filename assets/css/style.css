@@ -1,8 +1,9 @@
 body {
 	width: 100%;
-	background-color: red;
+
 	z-index: -3;
-	background: url("assets/images/cheap_diagonal_fabric.png") repeat;
+	background-image: url("assets/images/cheap_diagonal_fabric.png") repeat;
+
 }
 
 
