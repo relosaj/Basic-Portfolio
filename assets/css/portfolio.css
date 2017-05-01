@@ -90,29 +90,88 @@ hr {
 
 .game1 {
 	float: left;
-	padding: 40px;
+	background-color: black;
+	height: 170px;
+	width: 240px;
+	padding: 20px;
+	margin: 20px;
+}
+
+
+.hangman {
+	color: white;
+	font-size: 20px;
+	background: #4aaaa5;
+	padding: 15px;
+	margin: 110px 0 0px 0;
 }
 
 .game2 {
 	float: left;
-	padding: 40px;
+	background-color: black;
+	height: 170px;
+	width: 240px;
+	padding: 20px;
+	margin: 20px;
 }
 
+.rpg {
+	color: white;
+	font-size: 20px;
+	background: #4aaaa5;
+	padding: 15px;
+	margin: 110px 0 0px 0;
+}
 .game3 {
 	float: left;
-	padding: 40px;
+	background-color: black;
+	height: 170px;
+	width: 240px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.trivia {
+	color: white;
+	font-size: 20px;
+	background: #4aaaa5;
+	padding: 15px;
+	margin: 110px 0 0px 0;
 }
 
 .game4 {
 	float: left;
-	padding: 40px;
+	background-color: black;
+	height: 170px;
+	width: 240px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.rutgers {
+	color: white;
+	font-size: 20px;
+	background: #4aaaa5;
+	padding: 15px;
+	margin: 110px 0 0px 0;
 }
 
 .game5 {
 	float: left;
-	padding: 40px;
+	background-color: black;
+	height: 170px;
+	width: 240px;
+	padding: 20px;
+	margin: 20px;
 }
 
+.rock {
+	color: white;
+	font-size: 20px;
+	background: #4aaaa5;
+	padding: 15px;
+	margin: 110px 0 0px 0;
+}
 
 
 /* Contact elemetns
