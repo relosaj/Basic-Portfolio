@@ -65,21 +65,13 @@ h1 {
 
 }
 
-.about {
-	float: left;
-	background-color: white;
-	width: 650px;
-	height: 420px;
-	margin: 50px 20px 50px 0;
-	text-align: center;
 
-}
 
 .portfolio {
 	float: left;
 	background-color: #666;
 	width: 650px;
-	height: 820px;
+	height: 880px;
 	margin: 50px 20px 50px 0;
 	text-align: center;
 }
@@ -96,39 +88,32 @@ hr {
 	color: gray;
 }
 
-p {
-	font-family: arial;
-	font-color: gray;
-	text-align: left;
-	padding: 10px;
-	margin: 0 30px 0 30px;
-}
-
-.profile{
-	padding: 40px;
-	float: left;
-}
-
 .game1 {
 	float: left;
+	padding: 40px;
 }
 
 .game2 {
 	float: left;
+	padding: 40px;
 }
 
 .game3 {
 	float: left;
+	padding: 40px;
 }
 
 .game4 {
 	float: left;
+	padding: 40px;
 }
 
 .game5 {
-
 	float: left;
+	padding: 40px;
 }
+
+
 
 /* Contact elemetns
    ========================================================================== */
