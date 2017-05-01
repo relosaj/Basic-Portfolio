@@ -1,9 +1,6 @@
 body {
 	width: 100%;
-
 	z-index: -3;
-	background-image: url("assets/images/cheap_diagonal_fabric.png") repeat;
-
 }
 
 
@@ -165,4 +162,5 @@ footer {
 	font-size: 10px;
 	text-align: center;
 	padding: 30px;
+	margin: 0;
 }

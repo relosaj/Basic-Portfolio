@@ -86,6 +86,11 @@ hr {
 	color: gray;
 }
 
+.pic{
+	float: left;
+}
+
+
 .game1 {
 	float: left;
 	background-color: black;
@@ -101,6 +106,7 @@ hr {
 	background: #4aaaa5;
 	padding: 15px 40px;
 	margin: 110px 0 0 0;
+	z-index: 2;
 }
 
 .game2 {
