@@ -1,3 +1,5 @@
+
+
 body {
 	width: 100%;
 	background-color: red;
@@ -62,16 +64,13 @@ h1 {
 	width: 960px;
 	background-color: white;
 	margin: 0 auto;
-
 }
-
-
 
 .portfolio {
 	float: left;
 	background-color: #666;
 	width: 650px;
-	height: 880px;
+	height: 840px;
 	margin: 50px 20px 50px 0;
 	text-align: center;
 }
@@ -93,17 +92,16 @@ hr {
 	background-color: black;
 	height: 170px;
 	width: 240px;
-	padding: 20px;
-	margin: 20px;
+	margin: 31px 40px 31px 40px;
 }
 
 
 .hangman {
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	background: #4aaaa5;
-	padding: 15px;
-	margin: 110px 0 0px 0;
+	padding: 15px 40px;
+	margin: 110px 0 0 0;
 }
 
 .game2 {
@@ -111,32 +109,30 @@ hr {
 	background-color: black;
 	height: 170px;
 	width: 240px;
-	padding: 20px;
-	margin: 20px;
+	margin: 31px;
 }
 
 .rpg {
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	background: #4aaaa5;
-	padding: 15px;
-	margin: 110px 0 0px 0;
+	padding: 15px 40px;
+	margin: 110px 0 0 0;
 }
 .game3 {
 	float: left;
 	background-color: black;
 	height: 170px;
 	width: 240px;
-	padding: 20px;
-	margin: 20px;
+	margin: 31px 40px 31px 40px;
 }
 
 .trivia {
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	background: #4aaaa5;
-	padding: 15px;
-	margin: 110px 0 0px 0;
+	padding: 15px 40px;
+	margin: 110px 0 0 0;
 }
 
 .game4 {
@@ -144,16 +140,15 @@ hr {
 	background-color: black;
 	height: 170px;
 	width: 240px;
-	padding: 20px;
-	margin: 20px;
+	margin: 31px;
 }
 
 .rutgers {
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	background: #4aaaa5;
-	padding: 15px;
-	margin: 110px 0 0px 0;
+	padding: 15px 40px;
+	margin: 110px 0 0 0;
 }
 
 .game5 {
@@ -161,16 +156,15 @@ hr {
 	background-color: black;
 	height: 170px;
 	width: 240px;
-	padding: 20px;
-	margin: 20px;
+	margin: 31px 40px 31px 40px;
 }
 
 .rock {
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	background: #4aaaa5;
-	padding: 15px;
-	margin: 110px 0 0px 0;
+	padding: 15px 40px;
+	margin: 110px 0 0 0;
 }
 
 
